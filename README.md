@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Flikimax
+- 🌱 I’m currently learning React Js, Gutenberg and Python
+- 📫 flikimax@gmail.com
