@@ -17,11 +17,11 @@ Soy Desarrollador Web en **[ColombiaVip](https://colombiavip.com/)**, administro
 - **[Óptica Las Gafas](https://flikimax.com/optica-las-gafas).**
 - **[Cespedes Comenta Radio](https://flikimax.com/cespedes-comenta-radio)**
 
-Estos han sido mis proyectos mas importantes hasta la fecha, sigo trbajando, creando y sobre todo aprendiendo dia a dia.
+Estos han sido mis proyectos más importantes hasta la fecha, sigo trabajando, creando y sobre todo aprendiendo día a día.
 
 ## Blog - Tecnologia
 
-Recientemente comence a escribir sobre lo que iba aprendiendo y asi que fuese de ayuda a alguien mas.
+Recientemente comencé a escribir sobre lo que iba aprendiendo y asi que fuese de ayuda a alguien más.
 
 <a href="https://flikimax.com/category/blog/tecnologia/" target="_blank" style="background: #333; color: white; padding: 8px 15px; border-radius: 20px;">Aprender</a>
 
@@ -35,6 +35,6 @@ Recientemente comence a escribir sobre lo que iba aprendiendo y asi que fuese de
 
 ## Blog - personal
 
-Cuento historias, narro mi vida, le doy rienda suelta a mis pensamientos y sobre todo a mi corazón; escribo desde el sentir, escribo sobre ti, escribo sobre cualquier cosa y sobre todo escribo para mi.
+Cuento historias, narro mi vida, le doy rienda suelta a mis pensamientos y sobre todo a mi corazón; escribo desde el sentir, escribo sobre ti, escribo sobre cualquier cosa y sobre todo escribo para mí.
 
 <a href="https://flikimax.com/category/blog/tecnologia/" target="_blank" style="background: #333; color: white; padding: 8px 15px; border-radius: 20px;">Ir al blog</a>
