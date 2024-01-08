@@ -10,7 +10,4 @@
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" width="30px"></span> | <span><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40px"></span> | <span><img src="https://flikimax.com/wp-content/uploads/2021/06/css3.png" alt="CSS3" width="29px"></span>
 </p>
 
-## Aloha, soy Jonathan Giraldo
-
-Soy Desarrollador FullStack
 
