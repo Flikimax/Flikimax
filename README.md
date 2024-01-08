@@ -12,8 +12,5 @@
 
 ## Aloha, soy Jonathan Giraldo
 
-Soy Desarrollador FullStack en **[Suplos](https://suplos.com/)**.
-
-
-
+Soy Desarrollador FullStack
 
